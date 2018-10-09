@@ -9,7 +9,7 @@
 
 <body>
     <h1>This is Homework One.</h1>
-    <p><img src="img/oldtouchup"><img src="img/oldtouchup.jpg"></p>
+    <p><img src="img/oldtouchup"><img src="img/oldtouchup.jpg.png"></p>
     <p><img src="img/cutepuppy.jpg"></p>
     <p style="background-color:Black;">I decided to merge two pictures with one another. I took a picture of a cute puppy and cut him into a background of outer space.</p>
     <p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=I8S4k_s97HE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
